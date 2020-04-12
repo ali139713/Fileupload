@@ -1,0 +1,42 @@
+.FormCenter{
+
+    background-color: rgb(94, 248, 253);
+      height:100vh;
+    
+    }
+    .FormField__Input{
+        
+        background: transparent;
+        text-decoration: underline;
+        border: none;
+        outline: none   ;
+        border-bottom:1px solid #698081;	
+        
+    
+    }
+    
+    
+    .FormField__Label{
+        width:20%;
+        margin-top: 5em;
+        
+        transition: all 0.5s ease-in-out;
+    
+    
+    }
+    .FormField__Button {
+        outline: none;
+        border: 0;
+        background-color: rgba(167, 171, 175, 0.993);
+        padding:10px 20px;
+        text-transform:uppercase;
+        margin-top:50px;
+        border-radius:2px;
+        cursor:pointer;
+        position:relative
+    }
+    .FormField__Link{
+    
+    margin-left:5%;
+    
+    }
